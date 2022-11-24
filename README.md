@@ -1,21 +1,3 @@
-<h1 align="center">Hi <img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="55px" width="55px">, I'm Wassim Bensalha</h1>
-<h3 align="center">¯\_(ツ)_/¯
-
-Programmer | Content Creator | Learner
-
-?></h3>
-
-- 🔭 I’m currently working on **c++ c#**
-
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **wasimleo421@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
 ### Connect with me:
 
