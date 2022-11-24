@@ -1,9 +1,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="therealLeoyp | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="therealLeoyp | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="therealLeoyp | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="therealLeoyp | Discord" width="22px" src="[https://cdn-icons-png.flaticon.com/512/124/124010.png](https://i.pinimg.com/originals/f1/a1/e0/f1a1e01c5c67f067890ea6f722278ddc.png)" />][Discord]
+
 
 <br />
 
@@ -34,6 +33,6 @@
 
 
 
-[facebook]: https://www.facebook.com/wassim.bensalha.9
+[discord]: https://discord.gg/ZJt5SzBBzJ
 [youtube]: https://www.youtube.com/channel/UCSKJGtUMq3Q6jxtQVi7V6SA
 [instagram]: https://www.instagram.com/wasim.bensalha/
